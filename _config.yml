@@ -1,6 +1,6 @@
 name: PitStopChassis
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.1725
 typography_spectrum: 0.6285360746551305
 title: Pit Stop Chassis
 cta:
@@ -22,7 +22,7 @@ color:
     - '#968476'
     - '#491d10'
     - '#725a4f'
-  brandStrength: 0.26031673583202064
+  brandStrength: 0.25
   lightness: 0.9101860502269119
   saturation: 0.6365519338287413
   rhythmicContrast: 0.9484291656408459

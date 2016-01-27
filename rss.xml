@@ -4,8 +4,15 @@
         <description><![CDATA[Pit Stop Chassis]]></description>
         <link>https://thegrid.ai/pitstopchassis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 15:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 07:24:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pitstopchassis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Pour plus de renseignements, s’il vous plaît contactez-nous au:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32f292d2a11a66314105ed079ca9821fc26ff6b1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pitstopchassis/contact/index.html</link>
+            <guid isPermaLink="false">ee114ea4-a8cf-4f91-8fc8-8c6439c5b4cf</guid>
+            <pubDate>Wed, 27 Jan 2016 07:14:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pit Stop]]></title>
             <description><![CDATA[<article><h1>Pit Stop</h1><p>Changez votre châssis comme l’arrêt au stands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6b19db0824ba3141941e51722e552ff3e4644f.jpg"></article>]]></description>
